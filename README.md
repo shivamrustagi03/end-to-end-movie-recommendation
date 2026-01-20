@@ -1,4 +1,4 @@
-# #🎬 Movie Recommendation System (End-to-End)
+# 🎬 Movie Recommendation System (End-to-End)
 
 An end-to-end **Movie Recommendation System** built using **Machine Learning (TF-IDF + Cosine Similarity)** with a **FastAPI backend** and an interactive **Streamlit frontend**.  
 The system provides **content-based movie recommendations**, real-time movie search, and detailed movie information by integrating the **OMDb API**.
